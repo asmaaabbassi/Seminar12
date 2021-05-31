@@ -12,8 +12,6 @@ https://figshare.com/articles/figure/Results/14707146
 
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.4885031.svg)](https://zenodo.org/record/4885031#.YLVe06gzbIU)
 
-https://zenodo.org/record/4885031#.YLVe06gzbIU
-
 ## How to run the project
 
 * Clone the project with the instruction: git clone https://github.com/asmaaabbassi/Seminar12.git
