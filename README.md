@@ -10,7 +10,7 @@ https://figshare.com/articles/dataset/data_json/14707107
 Visualize numbers generated.
 https://figshare.com/articles/figure/Results/14707146
 
-https://zenodo.org/badge/372628063.svg
+https://zenodo.org/record/4885031#.YLVe06gzbIU
 
 ## How to run the project
 
