@@ -2,11 +2,11 @@
 
 The purpose of this project is to get familiar with FigShare, GitHub and Zenodo for sharing data science projects and results according to the best practices shown in the seminar.
 
-##script1.py
+## script1.py
 Generate random numbers between 1 and 100.
 https://figshare.com/articles/dataset/data_json/14707107
 
-##script2.py
+## script2.py
 Visualize numbers generated.
 https://figshare.com/articles/figure/Results/14707146
 
